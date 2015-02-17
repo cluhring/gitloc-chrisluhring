@@ -1,6 +1,8 @@
+$LOAD_PATH.unshift File.expand_path('../lib', __FILE__)
+
 Gem::Specification.new do |s|
   s.name        = 'gitloc-chrisluhring'
-  s.version     = '0.1.0'
+  s.version     = Gitloc::VERSION
   s.licenses    = ['MIT']
   s.summary     = "Example project -- gives lines-of-code information for a git repo"
   s.description = "Example project for the Turing School of Software and Design, see https://github.com/JoshCheek/elective-building-a-gem -- gives lines-of-code information for a git repo."

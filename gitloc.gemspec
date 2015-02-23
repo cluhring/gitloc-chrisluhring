@@ -10,7 +10,7 @@ Gem::Specification.new do |s|
   s.description = "Example project for the Turing School of Software and Design, see https://github.com/JoshCheek/elective-building-a-gem -- gives lines-of-code information for a git repo."
   s.authors     = ["Chris Luhring"]
   s.email       = 'cluhring@gmail.com'
-  s.files       = Dir["**/*"].select { |f| File.file? f }
+  s.files       = Dir["**/*"].select { |f| File.file? f } - Dir['*.gem']
   s.homepage    = 'https://github.com/cluhring/turing-elective-building-a-gem'
   s.executables << 'gitloc'
 end

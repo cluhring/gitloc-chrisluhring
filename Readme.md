@@ -1,4 +1,5 @@
 https://github.com/JoshCheek/elective-building-a-gem/blob/master/Day3.md
+Instructions can also be found in Week13 file.
 
 Gitloc
 ======

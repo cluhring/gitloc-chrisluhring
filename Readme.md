@@ -1,4 +1,4 @@
-https://github.com/JoshCheek/elective-building-a-gem/blob/master/Day3.md
+https://github.com/JoshCheek/elective-building-a-gem/blob/master/Day3.md<br>
 Instructions can also be found in Week13 file.
 
 Gitloc

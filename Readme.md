@@ -1,3 +1,5 @@
+https://github.com/JoshCheek/elective-building-a-gem/blob/master/Day3.md
+
 Gitloc
 ======
 

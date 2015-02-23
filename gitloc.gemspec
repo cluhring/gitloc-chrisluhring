@@ -13,4 +13,5 @@ Gem::Specification.new do |s|
   s.files       = Dir["**/*"].select { |f| File.file? f } - Dir['*.gem']
   s.homepage    = 'https://github.com/cluhring/turing-elective-building-a-gem'
   s.executables << 'gitloc'
+  s.add_development_dependency 'rspec', '~> 3.0'
 end
